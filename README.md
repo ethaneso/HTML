@@ -14,3 +14,5 @@ my HTML notes
 [Paragraph](https://ethankclam.github.io/HTML/p.html)
 
 [Internal Link](https://ethankclam.github.io/HTML/itnlink.html)
+
+[External Link](https://ethankclam.github.io/HTML/extlink.html)
