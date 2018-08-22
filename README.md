@@ -12,3 +12,5 @@ my HTML notes
 [Ordered list](https://ethankclam.github.io/HTML/ol.html)
 
 [Paragraph](https://ethankclam.github.io/HTML/p.html)
+
+[Internal Link](https://ethankclam.github.io/HTML/itnlink.html)
