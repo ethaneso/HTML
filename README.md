@@ -34,3 +34,6 @@ my HTML notes
 [HTML Responsive](https://ethankclam.github.io/HTML/resp.html)
 
 [Forms](https://ethankclam.github.io/HTML/form.html)
+
+***
+[A Restaurant Website Demo](https://ethankclam.github.io/restaurantonline/index.html)
