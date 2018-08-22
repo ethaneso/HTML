@@ -1,6 +1,8 @@
 # HTML
 my HTML notes
 ***
+[HTML basic structure](https://ethankclam.github.io/HTML/html.html)
+
 [Title element](https://ethankclam.github.io/HTML/title.html)
 
 [Heading element](https://ethankclam.github.io/HTML/headings.html)
