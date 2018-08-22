@@ -17,6 +17,8 @@ my HTML notes
 
 [External Link](https://ethankclam.github.io/HTML/extlink.html)
 
+[Links to sections](https://ethankclam.github.io/HTML/links.html)
+
 [Display Image](https://ethankclam.github.io/HTML/displayimage.html)
 
 [HTML Formatting](https://ethankclam.github.io/HTML/formatting.html)
@@ -32,3 +34,7 @@ my HTML notes
 [HTML Responsive](https://ethankclam.github.io/HTML/resp.html)
 
 [Forms](https://ethankclam.github.io/HTML/form.html)
+
+***
+
+[A Cat Photo Website](https://ethankclam.github.io/sites/catphotoapp/catphotoapp.html)
