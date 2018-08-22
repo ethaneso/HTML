@@ -9,4 +9,4 @@ my HTML notes
 
 [Unordered list](https://ethankclam.github.io/HTML/ullist.html)
 
-[Ordered list](https://ethankclam.github.io/HTML/ollist.html)
+[Ordered list](https://ethankclam.github.io/HTML/ol.html)
