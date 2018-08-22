@@ -22,3 +22,5 @@ my HTML notes
 [HTML Formatting](https://ethankclam.github.io/HTML/formatting.html)
 
 [HTML Table](https://ethankclam.github.io/HTML/table.html)
+
+[HTML Blocks](https://ethankclam.github.io/HTML/blocks.html)
