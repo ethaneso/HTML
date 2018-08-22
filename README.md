@@ -16,3 +16,5 @@ my HTML notes
 [Internal Link](https://ethankclam.github.io/HTML/itnlink.html)
 
 [External Link](https://ethankclam.github.io/HTML/extlink.html)
+
+[Display Image](https://ethankclam.github.io/HTML/displayimage.html)
