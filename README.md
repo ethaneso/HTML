@@ -30,3 +30,5 @@ my HTML notes
 [Layout](https://ethankclam.github.io/HTML/layout.html)
 
 [HTML Responsive](https://ethankclam.github.io/HTML/resp.html)
+
+[Forms](https://ethankclam.github.io/HTML/form.html)
