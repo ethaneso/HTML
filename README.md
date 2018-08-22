@@ -29,3 +29,4 @@ my HTML notes
 
 [Layout](https://ethankclam.github.io/HTML/layout.html)
 
+[HTML Responsive](https://ethankclam.github.io/HTML/resp.html)
