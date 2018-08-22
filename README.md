@@ -37,3 +37,5 @@ my HTML notes
 
 ***
 [A Restaurant Website Demo](https://ethankclam.github.io/restaurantonline/index.html)
+
+[A Cat Photo Website](https://ethankclam.github.io/sites/catphotoapp/catphotoapp.html)
