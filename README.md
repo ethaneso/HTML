@@ -26,3 +26,9 @@ my HTML notes
 [HTML Blocks](https://ethankclam.github.io/HTML/blocks.html)
 
 [Iframe](https://ethankclam.github.io/HTML/iframe.html)
+
+[Layout](https://ethankclam.github.io/HTML/layout.html)
+
+[HTML Responsive](https://ethankclam.github.io/HTML/resp.html)
+
+[Forms](https://ethankclam.github.io/HTML/form.html)
