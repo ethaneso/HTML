@@ -20,3 +20,5 @@ my HTML notes
 [Display Image](https://ethankclam.github.io/HTML/displayimage.html)
 
 [HTML Formatting](https://ethankclam.github.io/HTML/formatting.html)
+
+[HTML Table](https://ethankclam.github.io/HTML/table.html)
