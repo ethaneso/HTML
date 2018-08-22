@@ -18,3 +18,5 @@ my HTML notes
 [External Link](https://ethankclam.github.io/HTML/extlink.html)
 
 [Display Image](https://ethankclam.github.io/HTML/displayimage.html)
+
+[HTML Formatting](https://ethankclam.github.io/HTML/formatting.html)
