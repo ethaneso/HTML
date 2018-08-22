@@ -8,3 +8,5 @@ my HTML notes
 [Heading element](https://ethankclam.github.io/HTML/headings.html)
 
 [Unordered list](https://ethankclam.github.io/HTML/ullist.html)
+
+[Ordered list](https://ethankclam.github.io/HTML/ollist.html)
