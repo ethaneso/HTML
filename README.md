@@ -35,6 +35,8 @@ my HTML notes
 
 [Forms](https://ethankclam.github.io/HTML/form.html)
 
+[Contact Form](https://ethankclam.github.io/HTML/contact.html)
+
 ***
 
 [A Cat Photo Website](https://ethankclam.github.io/sites/catphotoapp/catphotoapp.html)
