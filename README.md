@@ -38,6 +38,7 @@ my HTML notes
 [Contact Form](https://ethankclam.github.io/HTML/contact.html)
 
 ***
+Projects:
 
 [A Cat Photo Website](https://ethankclam.github.io/sites/catphotoapp/catphotoapp.html)
 
