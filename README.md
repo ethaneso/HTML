@@ -42,6 +42,8 @@ my HTML notes
 [A Cat Photo Website](https://ethankclam.github.io/sites/catphotoapp/catphotoapp.html)
 
 [A Restaurant Website (in progress...)](https://ethankclam.github.io/restaurantonline/index.html)
+
 ***
 Certificate:
+
 [Sololearn HTML Certificate](https://www.sololearn.com/Certificate/1014-7163891/pdf)
